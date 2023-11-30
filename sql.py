@@ -147,13 +147,6 @@ for director in director_data:
     cursor.execute("INSERT INTO DirectorDB (DirectorID, Name) VALUES (%s, %s)", director)
 
 
-    https://www.themoviedb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
-    https://www.themoviedb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg
-    https://www.themoviedb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg
-     https://www.themoviedb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg
-     https://www.themoviedb.org/t/p/original/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
-     https://www.themoviedb.org/t/p/original/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg
-     https://www.themoviedb.org/t/p/original/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
 """
 
 
